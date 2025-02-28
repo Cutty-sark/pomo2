@@ -28,7 +28,7 @@ Process flow
         - play alert sound
 - When the user presses the End session button:
     -   "Session end | currenttime" appended to the ledger
-    - if possible, a basic log file of this could be updated/generated, that would be cool. each update in the log file would need to have the date appended it in a 3rd column on a row by row basis. this would allow for effective time use analysis. The long term could be that this tool creates a log of your work. making this an internet tool and allowing others to log their work as well would be neat. beyond the current scope of this current version though.
-    
+    - if possible, a basic log file of this could be updated/generated, that would be cool. each update in the log file would need to have the date appended it in a 3rd column on a row by row basis. this would allow for effective time use analysis. The long term could be that this tool creates a log of your work. making this an internet tool, with functionality such as giving a label for your block of work (eg. "python", "deeperseeker5000" etc) and allowing others to log their work as well would be neat. beyond the current scope of this current version though.
+
 
     
